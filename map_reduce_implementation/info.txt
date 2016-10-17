@@ -1,0 +1,1 @@
+This folder has the code used in hadoop map-reduce to analyze the data.
