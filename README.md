@@ -5,3 +5,6 @@ Context: Class room scheduling for courses is complex problem. It is all the mor
 
 Data can be accessed from the below link:
 https://drive.google.com/file/d/0BwZVcycj1LnzcWduX3FNT2RoU2s/view?usp=sharing
+
+The visualizations can be accessed on the below URL:
+https://public.tableau.com/profile/harsha.sudarshan#!/
